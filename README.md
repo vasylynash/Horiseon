@@ -1,7 +1,8 @@
 # Horiseon
 
-##The goal:
+## The goal:
 To refactor the existing code according to the clients' acceptance criteria.
+Reactoring is done with HTML and CSS.
 
 [Deployed web page](https://vasylynash.github.io/Horiseon/)
 
